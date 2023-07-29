@@ -1,4 +1,4 @@
-/* Formatted on 27/07/2023 10:59:33 AM (QP5 v5.326) */
+/* Formatted on 29/07/2023 2:04:18 PM (QP5 v5.326) */
 DECLARE
     CURSOR C2 IS
         SELECT C001,
